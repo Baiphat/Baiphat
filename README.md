@@ -19,7 +19,7 @@
 
 ---
 
-### 💖 About Me
+###  About Me
 
 ```text
-💡 "Blending artistic aesthetics with functional code to build delightful web experiences."
+ "Blending artistic aesthetics with functional code to build delightful web experiences."
